@@ -2,7 +2,7 @@
 
 ## Scope
 
-The scope of this service is to add a new infrastructure layer to serve static resources to Entando's components (de-app, appbuilder),
+The scope of this service is to add a new infrastructure layer to serve static resources to Villanova's components (de-app, appbuilder),
 in particular when we need to scale-out the de-app or in multitenancy configurations.
 
 The CDS service exposes two ports:
